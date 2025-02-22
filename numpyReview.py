@@ -9,3 +9,8 @@ print("sorted array is ");
 a.sort()
 print(a);
 
+
+
+arranged= np.arange(1,24,4)
+
+print("arranged arrat",arranged);
